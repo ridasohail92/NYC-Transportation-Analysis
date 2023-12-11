@@ -30,9 +30,10 @@ Our project aims to comprehensively analyze New York City's transportation syste
 - **Documentation:** Additional context, methodology, and explanations.
 - **Paper:** Details of the visuailzation written in IEEE format.
 
-## How to Run the Code
+## Dashboard
 
-(Include instructions on dependencies and how to run the code)
+<img width="738" alt="image" src="https://github.com/ridasohail92/NYC-Transportation-Analysis/assets/46064961/14e99128-6563-49d8-a492-35c55a6df132">
+
 
 ## Tableau Public Profiles
 
