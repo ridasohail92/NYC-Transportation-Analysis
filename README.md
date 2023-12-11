@@ -35,14 +35,30 @@ Our project aims to comprehensively analyze New York City's transportation syste
 <img width="738" alt="image" src="https://github.com/ridasohail92/NYC-Transportation-Analysis/assets/46064961/14e99128-6563-49d8-a492-35c55a6df132">
 
 
-## Tableau Public Profiles
-
-- Alassanne Sy: [Tableau Profile Link]
-- Michael Xie: [Tableau Profile Link]
-- Rida Sohail: [Tableau Profile Link]
-- Ze Hong Wu: [Tableau Profile Link]
 
 ## Project Status
 
-This is successfully been completed
+In conclusion, our team has undertaken a thorough exploration of
+various facets of New York City’s transportation system, shedding
+light on the intricate dynamics of yellow taxi operations, bus delays,
+subway ridership, and bike-sharing patterns. The data-driven
+insights gleaned from our visualizations offer a glimpse into the
+complexities of urban mobility in one of the world’s busiest cities.
+As we move forward, our collective aim is to enhance the depth
+and cohesiveness of our visualizations. We envision creating a comprehensive
+storyboard on Tableau, influenced by principles discussed
+in Segel and Heer’s ”Narrative Visualization: Telling Stories with
+Data” [4], aiming to present a cohesive narrative of different transportation
+systems in NYC. This storyboard will not only highlight
+the strengths and weaknesses of each system but also aim to answer
+the crucial question: Which mode of transportation stands out as the
+most efficient, accessible, and sustainable for the diverse needs of
+New York City residents?
+By refining our visualizations and weaving them into a compelling
+narrative, we aspire to provide residents and policymakers with a
+nuanced understanding of the urban mobility landscape. Ultimately,
+our goal is to empower individuals to make informed decisions about
+their transportation choices while providing valuable insights that
+contribute to the ongoing discourse on optimizing the transportation
+infrastructure in New York City.
 
