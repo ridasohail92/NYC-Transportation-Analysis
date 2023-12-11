@@ -44,16 +44,7 @@ light on the intricate dynamics of yellow taxi operations, bus delays,
 subway ridership, and bike-sharing patterns. The data-driven
 insights gleaned from our visualizations offer a glimpse into the
 complexities of urban mobility in one of the world’s busiest cities.
-As we move forward, our collective aim is to enhance the depth
-and cohesiveness of our visualizations. We envision creating a comprehensive
-storyboard on Tableau, influenced by principles discussed
-in Segel and Heer’s ”Narrative Visualization: Telling Stories with
-Data” [4], aiming to present a cohesive narrative of different transportation
-systems in NYC. This storyboard will not only highlight
-the strengths and weaknesses of each system but also aim to answer
-the crucial question: Which mode of transportation stands out as the
-most efficient, accessible, and sustainable for the diverse needs of
-New York City residents?
+
 By refining our visualizations and weaving them into a compelling
 narrative, we aspire to provide residents and policymakers with a
 nuanced understanding of the urban mobility landscape. Ultimately,
