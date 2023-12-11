@@ -27,7 +27,6 @@ Our project aims to comprehensively analyze New York City's transportation syste
 - **Data:** Contains datasets used in the project.
 - **Source Code:** Individual folders for each team member's code.
 - **Visualizations:** Final visualizations created using Tableau.
-- **Documentation:** Additional context, methodology, and explanations.
 - **Paper:** Details of the visuailzation written in IEEE format.
 
 ## Dashboard
