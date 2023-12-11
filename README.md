@@ -1,7 +1,6 @@
 # NYC-Transportation-Analysis
 
 
-# NYC Urban Mobility and Transportation Analysis
 
 ## Project Overview
 
