@@ -6,6 +6,7 @@
 
 Our project aims to comprehensively analyze New York City's transportation system through data visualizations using Tableau. Each team member focuses on a specific aspect of urban mobility, including subway ridership, taxi data, bus delays, and bike-sharing statistics.
 
+
 ## Team Members and Roles
 
 - Alassanne Sy: NYC Yellow Taxi Driver Data
@@ -33,7 +34,7 @@ Our project aims to comprehensively analyze New York City's transportation syste
 
 <img width="738" alt="image" src="https://github.com/ridasohail92/NYC-Transportation-Analysis/assets/46064961/14e99128-6563-49d8-a492-35c55a6df132">
 
-
+https://public.tableau.com/app/profile/rida.sohail/viz/Final1_17023131245380/TEAM
 
 ## Project Status
 
