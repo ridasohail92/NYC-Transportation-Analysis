@@ -11,7 +11,7 @@ Our project aims to comprehensively analyze New York City's transportation syste
 
 - Alassanne Sy: NYC Yellow Taxi Driver Data
 - Michael Xie: Bus Delays and Breakdowns
-- Rida Sohail: Subway Ridership Data
+- Rida Sohail: Subway Ridership Data & Main Dashboard
 - Ze Hong Wu: Bike-Sharing Data
 
 ## Datasets
